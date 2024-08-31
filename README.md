@@ -10,7 +10,8 @@ Repositorio para armanezar arquivo de resumos sobre do Git Github do curso Versi
 
 | Aulas               | Resumo                                                |
 | ----------------- | ---------------------------------------------------------------- 
-| Gravando Alterações no Repositorio | [Resumos]()|
+|aula 01 | [Resumos]()|
+|aula 02 | [Resumos]()|
 
 ```
 git init
